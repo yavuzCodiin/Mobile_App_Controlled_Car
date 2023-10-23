@@ -5,6 +5,7 @@ Building a custom car and its remote control system. This hands-on venture combi
 ![17349631_1615261101834895_7790139166228665278_o](https://github.com/yavuzCodiin/Mobile_App_Controlled_Car/assets/82445309/f9d522e4-3ed1-4459-be65-76d91ae0ed72)
 
 >* IDE: Arduino
+>* Language: Arduino
 >* Arduino uno R3 ,
 >* x4 6V DC motor and wheel ,
 >* HC-05 or HC-06 bluetooth module ,
